@@ -159,6 +159,9 @@ done
 
 
 %changelog
+* Fri Nov 08 2024 Ashwin Hendre <112116232+AshwinHIBM@users.noreply.github.com> - 1.7.22-3.2
+- Add Fedora-41
+
 * Tue Sep 10 2024 Sebastiaan van Stijn <thajeztah@docker.com> - 1.7.22-3.1
 - Update containerd binary to v1.7.22
 - Update runc binary to v1.1.14
