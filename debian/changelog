@@ -1,3 +1,9 @@
+containerd.io (1.7.22-2) release; urgency=medium
+
+  * Update runc binary to v1.1.14
+
+ -- Ashwin Hendre <112116232+AshwinHIBM@users.noreply.github.com>  Fri, 22 Nov 2024 21:14:05 +0000
+
 containerd.io (1.7.22-1) release; urgency=medium
 
   * Update containerd binary to v1.7.22
