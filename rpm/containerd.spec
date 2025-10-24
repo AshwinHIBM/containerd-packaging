@@ -159,6 +159,10 @@ done
 
 
 %changelog
+* Fri Nov 05 2025  Ashwin Hendre <112116232+AshwinHIBM@users.noreply.github.com> - 1.7.28-3.1
+- Update containerd binary to v1.7.28
+- Update runc binary to v1.3.3
+
 * Mon Mar 31 2025 Paweł Gronowski <pawel.gronowski@docker.com> - 1.7.27-3.1
 - Update containerd binary to v1.7.27
 
