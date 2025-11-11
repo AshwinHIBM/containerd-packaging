@@ -159,6 +159,10 @@ done
 
 
 %changelog
+* Tue Nov 11 2025  <112116232+AshwinHIBM@users.noreply.github.com> - 1.7.29-3.1
+- Fix lost container logs from quickly closing io
+- Update differ to handle zstd media types
+
 * Fri Nov 05 2025  Ashwin Hendre <112116232+AshwinHIBM@users.noreply.github.com> - 1.7.28-3.1
 - Update containerd binary to v1.7.28
 - Update runc binary to v1.3.3
