@@ -159,6 +159,9 @@ done
 
 
 %changelog
+* Wed Nov 19 2025  <112116232+AshwinHIBM@users.noreply.github.com> - 2.1.5-3.1
+- Update containerd binary to v2.1.5
+
 * Tue Nov 11 2025  <112116232+AshwinHIBM@users.noreply.github.com> - 1.7.29-3.1
 - Fix lost container logs from quickly closing io
 - Update differ to handle zstd media types
