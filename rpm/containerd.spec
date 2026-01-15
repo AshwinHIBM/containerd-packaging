@@ -159,6 +159,9 @@ done
 
 
 %changelog
+* Tue Jan 13 2026  <112116232+AshwinHIBM@users.noreply.github.com> - 2.2.0-3.1
+- Update containerd binary to v2.2.0
+
 * Wed Nov 19 2025  <112116232+AshwinHIBM@users.noreply.github.com> - 2.1.5-3.1
 - Update containerd binary to v2.1.5
 
