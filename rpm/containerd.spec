@@ -159,6 +159,9 @@ done
 
 
 %changelog
+* Fri Apr 24 2026 AshwinHIBM <112116232+AshwinHIBM@users.noreply.github.com> - 2.2.3-3.1
+- Update containerd binary to v2.2.3
+
 * Tue Apr 21 2026 AshwinHIBM <112116232+AshwinHIBM@users.noreply.github.com> - 2.2.2-3.1
 - Update containerd binary to v2.2.2
 
