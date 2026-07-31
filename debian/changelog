@@ -1,3 +1,9 @@
+containerd.io (2.2.6-1) release; urgency=medium
+
+  * Update containerd binary to v2.2.6
+
+ -- AshwinHIBM <112116232+AshwinHIBM@users.noreply.github.com>  Fri, 31 Jul 2026 19:43:49 +0000
+
 containerd.io (2.2.5-1) release; urgency=medium
 
   * Update containerd binary to v2.2.5
