@@ -118,7 +118,7 @@ bin/containerd --version
 bin/ctr --version
 
 # Unset the VERSION variable as it's meant for containerd's version, not runc.
-env -u VERSION make -C /go/src/github.com/opencontainers/runc BINDIR=%{_builddir}/bin runc install
+env -u VERSION make -C /go/src/github.com/opencontainers/runc BINDIR=%{_builddir}/bin RUNC_BUILDTAGS="-libpathrs" runc install
 
 
 %install
@@ -159,6 +159,11 @@ done
 
 
 %changelog
+* Thu Sep 24 2026 AshwinHIBM <112116232+AshwinHIBM@users.noreply.github.com> - 2.3.5-3.1
+- Update containerd binary to v2.3.5
+- Update runc binary to v1.5.1
+- Use runc's pathrs-lite backend until supported distributions package libpathrs
+
 * Fri Jul 31 2026 AshwinHIBM <112116232+AshwinHIBM@users.noreply.github.com> - 2.2.6-3.1
 - Update containerd binary to v2.2.6
 
