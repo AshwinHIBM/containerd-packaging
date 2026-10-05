@@ -7,6 +7,13 @@ containerd.io (2.3.5-1) release; urgency=medium
 
  -- AshwinHIBM <112116232+AshwinHIBM@users.noreply.github.com>  Thu, 24 Sep 2026 15:12:13 +0000
 
+containerd.io (2.3.3-1) release; urgency=medium
+
+  * Update containerd binary to v2.3.3
+  * Update runc binary to v1.4.3
+
+ -- AshwinHIBM <112116232+AshwinHIBM@users.noreply.github.com>  Mon, 05 Oct 2026 08:31:39 +0000
+
 containerd.io (2.2.6-1) release; urgency=medium
 
   * Update containerd binary to v2.2.6

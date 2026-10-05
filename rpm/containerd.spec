@@ -164,6 +164,10 @@ done
 - Update runc binary to v1.5.1
 - Use runc's pathrs-lite backend until supported distributions package libpathrs
 
+* Mon Oct 05 2026 AshwinHIBM <112116232+AshwinHIBM@users.noreply.github.com> - 2.3.3-3.1
+- Update containerd binary to v2.3.3
+- Update runc binary to v1.4.3
+
 * Fri Jul 31 2026 AshwinHIBM <112116232+AshwinHIBM@users.noreply.github.com> - 2.2.6-3.1
 - Update containerd binary to v2.2.6
 
